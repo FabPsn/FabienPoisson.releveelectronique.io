@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feuille_de_quart>
+  <equipeService cms="dgfj" cmstel="" cmsrenf="" tech="" techtel="330" cdq1="" cdq2="" cdq3="" cdq4="" cdq5="" cdq6="" cdq7="" cdq1b="" cdq2b="" cdq3b="" cdq4b="" cdq5b="" cdq6b="" cdq7b="" adj1="" adj2="" adj3="" adj4="" adj5="" adj6="" adj7="" adj1b="&lt;br&gt;" adj2b="&lt;br&gt;" adj3b="&lt;br&gt;" adj4b="" adj5b="" adj6b="" adj7b=""/>
+  <moyens_sortis/>
+  <alerte_aero>
+    <alerte num="0" nom="&lt;br&gt;" obs=""/>
+    <alerte num="1" nom="&lt;br&gt;" obs=""/>
+    <alerte num="2" nom="" obs=""/>
+    <alerte num="3" nom="" obs=""/>
+    <alerte num="4" nom="" obs=""/>
+    <alerte num="5" nom="" obs=""/>
+    <alerte num="6" nom="" obs=""/>
+    <alerte num="7" nom="" obs=""/>
+  </alerte_aero>
+  <moyens_indispo/>
+  <previ_activite/>
+  <manaut/>
+  <technique/>
+  <actops/>
+  <meteo>
+    <BMS>
+      <LargeB bms1=""/>
+      <OuestB bms2=""/>
+      <EstB bms3=""/>
+    </BMS>
+    <VT>
+      <LargeVT vt1=""/>
+      <OuestVT vt2=""/>
+      <EstVT vt3=""/>
+    </VT>
+    <MER>
+      <LargeM mer1=""/>
+      <OuestM mer2=""/>
+      <EstM mer3=""/>
+    </MER>
+    <Visi>
+      <LargeVI visi1=""/>
+      <OuestVI visi2=""/>
+      <EstVI visi3=""/>
+    </Visi>
+    <Temp temp="0"/>
+    <Coeff coeff=""/>
+    <Maree maree=""/>
+    <Liens>
+    </Liens>
+  </meteo>
+  <Text numOPS="1" numPOL="1" numMAS="1" numPV="1">
+    <OPS>
+      <LIGNE>dsghd</LIGNE>
+      <LIGNE>dghfgd</LIGNE>
+    </OPS>
+    <NAV>
+      <LIGNE/>
+    </NAV>
+  </Text>
+</feuille_de_quart>
